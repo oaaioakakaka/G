@@ -19,7 +19,7 @@ MakeWindow({
       Notifications = true,
       CorrectKey = "Running the Script...",
       Incorrectkey = "The key is incorrect",
-      CopyKeyLink = "Copied Discord Link"
+      CopyKeyLink = "Copied Key Link"
     }
   }
 })
